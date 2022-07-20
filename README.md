@@ -1,6 +1,6 @@
 # Pokedex
 Created a Pokedex using Html,CSS, and JS for the first three generations of pokemon from number #1 - #386
-https://AbdullahT-BK.github.io/Pokedex/blob/main/pokedex.html
+https://AbdullahT-BK.github.io/Pokedex/pokedex.html
 
 
 
