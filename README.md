@@ -1,5 +1,5 @@
-# Pokedex - https://abdullaht-bk.github.io/Pokedex/pokedex.html
-
+# Pokedex 
+https://abdullaht-bk.github.io/Pokedex/pokedex.html
 Created a Pokedex using Html,CSS, and JS for the first three generations of pokemon from number #1 - #386
 
 
